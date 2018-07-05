@@ -1,0 +1,15 @@
+{
+    "artifactMetadata" : [
+        {
+            "groupId": "com.squareup.retrofit",
+            "artifactId": "retrofit",
+            "artifactory": "MAVEN"
+        },
+        {
+            "groupId": "com.google.dagger",
+            "artifactId": "dagger",
+            "artifactory": "MAVEN",
+            "processorArtifactId": "dagger-compiler"
+        }
+    ]
+}
