@@ -1,0 +1,6 @@
+# simple artifact format
+# groupId:artifactId
+# groupId:artifactId , processorId (if it has an annotation processor)
+com.squareup.retrofit:retrofit
+com.google.dagger:dagger, dagger-compiler
+com.github.bumptech.glide:glide, compiler
